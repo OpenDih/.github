@@ -1,4 +1,4 @@
-![Banner](src/ban.webp)
+![Banner](../src/output.webp)
 
 ### "building the next generation of large language models"
 
