@@ -20,7 +20,7 @@ We are a collective of researchers and engineers dedicated to pushing the bounda
 | **Languages** | Python, Rust, CUDA |
 
 ## 📬 Contact & Connect
-* 🌐 [Website](tobemade)
+* 🌐 [Website](https://opendih.github.io/website/)
 * 🐦 [Twitter/X](tobemade)
 * 📧 [Email](tobemade)
 
