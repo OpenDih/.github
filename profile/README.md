@@ -14,10 +14,10 @@ We are a collective of researchers and engineers dedicated to pushing the bounda
 ## Tech Stack
 | Category | Tools |
 | :--- | :--- |
+| **Base Substrate** | artifish/llama3.2-uncensored |
 | **Frameworks** | PyTorch, JAX, Hugging Face Transformers |
-| **Training** | DeepSpeed, FSDP, FlashAttention |
-| **Infrastructure** | Kubernetes, Docker, NVIDIA H100s |
-| **Languages** | Python, Rust, CUDA |
+| **Training Infrastructure** | unsloth, QLora, kaggle, Docker, NVIDIA P100s |
+| **Languages** | Python, CUDA |
 
 ## Contact & Connect
 * [Website](https://opendih.github.io/website/)
