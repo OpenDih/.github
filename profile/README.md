@@ -1,6 +1,6 @@
 ![Banner](../src/banner.webp)
 
-### "building the next generation of large language models"
+### "building the next generation of large language models" - Open Digital Innovation Hub
 
 ---
 
@@ -9,7 +9,7 @@ We are a collective of researchers and engineers dedicated to pushing the bounda
 
 ## What We’re Building
 * **[ManGPT]:** Our flagship xB parameter model.
-* **[Man_bot]:** A discord bot to access the ManGPT using Discord.
+* **[ManBot]:** A discord bot to access the ManGPT using Discord.
 
 ## Tech Stack
 | Category | Tools |
@@ -19,10 +19,10 @@ We are a collective of researchers and engineers dedicated to pushing the bounda
 | **Infrastructure** | Kubernetes, Docker, NVIDIA H100s |
 | **Languages** | Python, Rust, CUDA |
 
-## 📬 Contact & Connect
-* 🌐 [Website](https://opendih.github.io/website/)
-* 🐦 [Twitter/X](tobemade)
-* 📧 [Email](tobemade)
+## Contact & Connect
+* [Website](https://opendih.github.io/website/)
+* [Twitter/X](https://x.com/opendih51427)
+* [Email](teamopendih@gmail.com)
 
 ---
 <p align="center">
