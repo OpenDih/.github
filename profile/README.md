@@ -20,7 +20,7 @@ We are a collective of researchers and engineers dedicated to pushing the bounda
 | **Languages** | Python, CUDA |
 
 ## Contact & Connect
-* [Website](https://opendih.github.io/website/)
+* [Website](https://opendih.github.io)
 * [Twitter/X](https://x.com/opendih51427)
 * [Email](mailto:teamopendih@gmail.com)
 
